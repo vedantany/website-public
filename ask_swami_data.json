@@ -134,19 +134,6 @@
         ]
     },
     {
-        "category": "Buddhism",
-        "links": [
-            {
-                "text": "How does the concept of dependent origination map into Advaitic concepts?",
-                "url": "https://www.youtube.com/watch?v=3rE9U4ty5vw&t=3739s"
-            },
-            {
-                "text": "If Buddhism believes in reincarnation, why not the Atman?",
-                "url": "https://www.youtube.com/watch?v=tMSnomUpAqc&t=3260s"
-            }
-        ]
-    },
-    {
         "category": "Death/Rebirth",
         "links": [
             {
@@ -172,15 +159,6 @@
             {
                 "text": "Tell us more about death and destruction of universe.",
                 "url": "https://www.youtube.com/watch?v=l_vmlYMfsdQ&t=2920s"
-            }
-        ]
-    },
-    {
-        "category": "Dharma",
-        "links": [
-            {
-                "text": "What is my swadharma?",
-                "url": "https://www.youtube.com/watch?v=s3TzA-r43X8&t=1150s"
             }
         ]
     },
@@ -226,10 +204,6 @@
             {
                 "text": "What entity becomes liberated?",
                 "url": "https://www.youtube.com/watch?v=YLSRvatqLFY&t=1097s"
-            },
-            {
-                "text": "Isn't enlightenment part of Maya?",
-                "url": "https://www.youtube.com/watch?v=4QDmwE0Fw2o&t=144s"
             }
         ]
     },
@@ -335,24 +309,6 @@
             {
                 "text": "If the whole world is Brahman, then it suggests the evil is also Brahman. Then how to distinguish between good and evil? If God exists then why is evil more than good in the world?",
                 "url": "https://www.youtube.com/watch?v=l_vmlYMfsdQ&t=2292s"
-            }
-        ]
-    },
-    {
-        "category": "Hinduism",
-        "links": [
-            {
-                "text": "How can we define God for a young person?",
-                "url": "https://www.youtube.com/watch?v=nENMCNBSQvQ&t=3960s"
-            }
-        ]
-    },
-    {
-        "category": "Ignorance/Avidya",
-        "links": [
-            {
-                "text": "If avidya (ignorance) is in Brahman, isn't it real?",
-                "url": "https://www.youtube.com/watch?v=3rE9U4ty5vw&t=1608s"
             }
         ]
     },
@@ -794,40 +750,6 @@
         ]
     },
     {
-        "category": "Moksha",
-        "links": [
-            {
-                "text": "Does moksha happen at once, or does it happen over time?",
-                "url": "https://www.youtube.com/watch?v=tMSnomUpAqc&t=4370s"
-            },
-            {
-                "text": "Why are there so many different perspectives on moksha?",
-                "url": "https://www.youtube.com/watch?v=tMSnomUpAqc&t=4630s"
-            },
-            {
-                "text": "Can there be spontaneous enlightenment without spiritual practice?",
-                "url": "https://www.youtube.com/watch?v=tMSnomUpAqc&t=4754s"
-            },
-            {
-                "text": "Will a realized person retain their individuality after enlightenment?",
-                "url": "https://www.youtube.com/watch?v=oqBEnsOendk&t=1615s"
-            }
-        ]
-    },
-    {
-        "category": "Nature of Consciousness",
-        "links": [
-            {
-                "text": "Can Brahman be equally immanent and transcendent?",
-                "url": "https://www.youtube.com/watch?v=tMSnomUpAqc&t=142s"
-            },
-            {
-                "text": "Why does Drg-Drsya-Viveka indicate that only the avaccheda (limitation) theory explains the appearance of one consciousness as many consciousnesses?",
-                "url": "https://www.youtube.com/watch?v=hRp1mkuRBYU&t=688s"
-            }
-        ]
-    },
-    {
         "category": "Nature of Consciousness/Brahman",
         "links": [
             {
@@ -1227,90 +1149,6 @@
         ]
     },
     {
-        "category": "Practical Vedanta",
-        "links": [
-            {
-                "text": "How can we deal with thoughts of dispassion towards the world?",
-                "url": "https://www.youtube.com/watch?v=M-O0xsKKODo&t=3447s"
-            }
-        ]
-    },
-    {
-        "category": "Reality",
-        "links": [
-            {
-                "text": "How can reality be truly One?",
-                "url": "https://www.youtube.com/watch?v=tMSnomUpAqc&t=5004s"
-            }
-        ]
-    },
-    {
-        "category": "Reflected Consciousness",
-        "links": [
-            {
-                "text": "What is the relationship between the reflected consciousness and pure consciousness?",
-                "url": "https://www.youtube.com/watch?v=nENMCNBSQvQ&t=122s"
-            },
-            {
-                "text": "What happens to the reflected consciousness after death, and after enlightenment?",
-                "url": "https://www.youtube.com/watch?v=s3TzA-r43X8&t=310s"
-            }
-        ]
-    },
-    {
-        "category": "Samsara",
-        "links": [
-            {
-                "text": "How is the cycle of reincarnation possible?",
-                "url": "https://www.youtube.com/watch?v=3rE9U4ty5vw&t=4006s"
-            }
-        ]
-    },
-    {
-        "category": "SatChitAnanda",
-        "links": [
-            {
-                "text": "If both bliss and pain are in the mind, why is Atman described as pure bliss, and not also pure pain?",
-                "url": "https://www.youtube.com/watch?v=hRp1mkuRBYU&t=3369s"
-            },
-            {
-                "text": "How is bliss the same as existence and consciousness?",
-                "url": "https://www.youtube.com/watch?v=_HVtoK5-IIE&t=2433s"
-            }
-        ]
-    },
-    {
-        "category": "Spiritual Dilemma",
-        "links": [
-            {
-                "text": "Is it ok to pray to God to satisfy our desires?",
-                "url": "https://www.youtube.com/watch?v=3rE9U4ty5vw&t=786s"
-            },
-            {
-                "text": "What is the purpose of professional ambition and duty?",
-                "url": "https://www.youtube.com/watch?v=S7Zd8AYUN7M&t=1204s"
-            }
-        ]
-    },
-    {
-        "category": "Spiritual Progress",
-        "links": [
-            {
-                "text": "After having our vices under control, what is the next step forward? After having cleansed the mind, what is the next step in mediation?",
-                "url": "https://www.youtube.com/watch?v=yzZ8L5vmgq0&t=2810s"
-            }
-        ]
-    },
-    {
-        "category": "Spiritual Quest",
-        "links": [
-            {
-                "text": "Why do we need to search for the unchanging self?",
-                "url": "https://www.youtube.com/watch?v=3rE9U4ty5vw&t=106s"
-            }
-        ]
-    },
-    {
         "category": "Three States",
         "links": [
             {
@@ -1384,36 +1222,6 @@
             {
                 "text": "(a) Is there any reality in the dream state? (b) My method of meditation keeps on changing because of so many methods I get to learn about; what should I do?",
                 "url": "https://www.youtube.com/watch?v=C4lBgdHaYi4&t=2145s"
-            },
-            {
-                "text": "Where is my consciousness when I am sleeping? Can I use sleep as a spiritual practice?",
-                "url": "https://www.youtube.com/watch?v=oqBEnsOendk&t=1117s"
-            }
-        ]
-    },
-    {
-        "category": "Vedanta and the World",
-        "links": [
-            {
-                "text": "Why do we call this world false?",
-                "url": "https://www.youtube.com/watch?v=oqBEnsOendk&t=2438s"
-            }
-        ]
-    },
-    {
-        "category": "Waking/Dreaming/Deep Sleep",
-        "links": [
-            {
-                "text": "In our waking state, is there a way to find the unity of pure consciousness?",
-                "url": "https://www.youtube.com/watch?v=S7Zd8AYUN7M&t=1726s"
-            },
-            {
-                "text": "Isn't consciousness interrupted in deep sleep?",
-                "url": "https://www.youtube.com/watch?v=S7Zd8AYUN7M&t=3135s"
-            },
-            {
-                "text": "My dream borrows material from my waking experience. Where does my waking reality borrow material from?",
-                "url": "https://www.youtube.com/watch?v=yzZ8L5vmgq0&t=1598s"
             }
         ]
     },
